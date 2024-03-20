@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://umang-dubey.github.io/" target="_blank">Portfolio</a>**
 
-- 😄 Pronouns: He/His
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
