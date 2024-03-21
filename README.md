@@ -53,7 +53,7 @@
 </div>
 
 
-<h3 align="left">Hosting :</h3>
+ <!-- <h3 align="left">Hosting :</h3>
 <div align="left">
   <!-- <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> -->
   <!-- <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
@@ -62,14 +62,14 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
-
+<!--
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=umang-dubey&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="umang-dubey" /></td>
     <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-dubey&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="umang-dubey" /></td> -->
   </tr>
-</table>
+</table> -->
 
-<div align="center">
+<!-- <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umang-dubey&theme=highcontrast&hide_border=true" alt="umang-dubey" /></p>
-  </div>
+  </div> -->
